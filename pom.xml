@@ -8,6 +8,8 @@
 
     <modules>
         <module>message-service</module>
+        <module>encryption-service</module>
+        <module>presence-service</module>
     </modules>
 
     <properties>
